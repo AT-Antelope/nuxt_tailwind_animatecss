@@ -35,4 +35,9 @@ body,
 	-ms-overflow-style: none; /* IE 和 Edge */
 	scrollbar-width: none; /* Firefox */
 }
+
+.flex-col {
+	display: flex;
+	flex-direction: column;
+}
 </style>
