@@ -40,4 +40,40 @@ body,
 	display: flex;
 	flex-direction: column;
 }
+
+.m-end {
+	justify-content: flex-end;
+}
+
+.m-center {
+	justify-content: center;
+}
+
+.m-between {
+	justify-content: space-between;
+}
+
+.m-around {
+	justify-content: space-around;
+}
+
+.s-end {
+	align-items: flex-end;
+}
+
+.s-baseline {
+	align-items: baseline;
+}
+
+.s-center {
+	align-items: center;
+}
+
+.s-between {
+	align-items: space-between;
+}
+
+.s-around {
+	align-items: space-around;
+}
 </style>
